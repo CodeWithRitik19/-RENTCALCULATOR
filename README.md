@@ -1,6 +1,6 @@
- # ITUB – Shared Expense Calculator 💰
+ # REC – Shared Expense Calculator 💰
 
-ITUB is a simple Python-based command-line application designed to help flatmates or hostel groups calculate how much each person needs to pay by splitting common expenses fairly.
+REC is a simple Python-based command-line application designed to help flatmates or hostel groups calculate how much each person needs to pay by splitting common expenses fairly.
 
 This tool is useful for students and working individuals living in shared flats/PG/hostels.
 
